@@ -1,0 +1,12 @@
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\bin\Debug\BCLauncher.exe.config
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\bin\Debug\BCLauncher.exe
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\bin\Debug\BCLauncher.pdb
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\bin\Debug\BCLauncher.xml
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.vbprojAssemblyReference.cache
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.Form1.resources
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.Resources.resources
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.vbproj.GenerateResource.cache
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.exe
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.xml
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.pdb
+C:\Users\Zer0\source\repos\BCLauncher\BCLauncher\obj\Debug\BCLauncher.Form2.resources
