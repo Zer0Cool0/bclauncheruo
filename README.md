@@ -1,2 +1,2 @@
 # bclauncheruo
-Unofficial Launcher for BigCity, passion project.
+Unofficial Launcher for BigCityRP, passion project of Zer0Cool0
